@@ -1,0 +1,29 @@
+{
+  "name": "kunai-high-contrast",
+  "displayName": "Kunai High Contrast",
+  "description": "Functional & Aesthetic",
+  "version": "0.0.3",
+  "publisher": "ManavSharma",
+  "icon": "icon.jpg",
+  "keywords": [
+    "kunai high contrast"
+  ],
+  "engines": {
+    "vscode": "^1.67.0"
+  },
+  "author": {
+    "name": "Manav Sharma"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kunai High Contrast",
+        "uiTheme": "hc-black",
+        "path": "./themes/Kunai High Contrast-color-theme.json"
+      }
+    ]
+  }
+}
