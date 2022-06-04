@@ -6,4 +6,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-- Initial release
+(0.0.5)
+
+- Added support for CSS
+
+(0.0.4)
+
+- Bug Fixes
+- Support for bracket pair colorization
